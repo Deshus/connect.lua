@@ -1,4 +1,4 @@
-local http = require("http"); -- импорт http
+local http = require("connect"); -- импорт connect
 
 local router = http.router()
 
